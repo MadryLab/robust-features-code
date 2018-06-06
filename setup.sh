@@ -13,7 +13,7 @@ mkdir data
 cd data
 
 function dl_it() {
-    wget https://github.com/MadryLab/robust-features-code/releases/download/v0.1/$1
+    wget https://github.com/MadryLab/robust-features-code/releases/download/v0.2/$1
     unzip $1
 }
 
