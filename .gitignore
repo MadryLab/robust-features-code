@@ -1,0 +1,4 @@
+data
+.ipynb_checkpoints
+grad_viz_out
+__pycache__
