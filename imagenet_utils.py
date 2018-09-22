@@ -163,11 +163,8 @@ def eval_on_ILSVRC12(model, sessinit, dataflow):
 
 try:
     EPS = args.eps
-    if args.lp == '2':
-        NUM_ITERATIONS = 20 
-    elif args.lp == 'inf':
-        NUM_ITERATIONS = 8
-        STEP_SIZE = EPS/NUM_ITERATIONS * 2 # args.eps/3
+    NUM_ITERATIONS = 8
+    STEP_SIZE = EPS/NUM_ITERATIONS * 2 # args.eps/3
 except:
     pass
 
