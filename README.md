@@ -2,7 +2,7 @@
 
 This repository provides code for both training and using the restricted robust resnet models from the paper: 
 
-**There Is No Free Lunch In Adversarial Robustness (But There Are Unexpected Benefits)**  
+**Robustness May Be at Odds with Accuracy**  
 *Dimitris Tsipras\*, Shibani Santurkar\*, Logan Engstrom\*, Alexander Turner, Aleksander Madry*  
 https://arxiv.org/abs/1805.12152  
 
