@@ -9,4 +9,4 @@ cvxpy==0.4.11
 numba==0.36.2
 scikit-learn==0.19.1
 PyWavelets==0.5.2
-tensorflow-gpu==1.15.2
+tensorflow-gpu==2.3.1
